@@ -7,3 +7,4 @@
 
 - link:
     ~/.config/wezterm: wezterm
+    ~/.config/nvim: nvim
